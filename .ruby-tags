@@ -1,0 +1,913 @@
+usr/bin/pg_dropcluster:includes the data directory, the log file, and all configuration files that
+usr/bin/libpng12-config:includedir="${prefix}/include/libpng12"
+usr/bin/krb5-config:includedir=${prefix}/include
+usr/bin/autom4te:include path, but then must end in \`.m4?\';  the question mark is not part of
+usr/bin/xml2-config:includedir=${prefix}/include
+usr/bin/gpg-error-config:includedir=${prefix}/include
+usr/bin/ack-grep:include:
+usr/bin/freetype-config:includedir="/usr/include"
+usr/bin/curl-config:includedir=${prefix}/include
+usr/bin/libgcrypt-config:includedir="${prefix}/include"
+usr/bin/xslt-config:includedir=${prefix}/include
+usr/bin/ncursesw5-config:includedir="${prefix}/include"
+usr/bin/ckbcomp:include_xkb_file 'keycodes', $keycodes;
+usr/bin/ckbcomp:include_xkb_file 'symbols', $symbols;
+usr/bin/perlthanks:include a file, you can use the -f switch.
+usr/bin/psed:include a literal 'C<]>' place it first or immediately after an
+usr/bin/ncurses5-config:includedir="${prefix}/include"
+usr/bin/s2p:include a literal 'C<]>' place it first or immediately after an
+usr/bin/perlbug:include a file, you can use the -f switch.
+usr/share/doc/x11proto-input-dev/XIproto.html:included in all copies or substantial portions of the Software.</tt></pre>
+usr/share/doc/x11proto-input-dev/XIproto.html:include:</p></div>
+usr/share/doc/libxdot4/copyright:includes the Program in a commercial product offering should do so in a manner
+usr/share/doc/libfontconfig1-dev/fontconfig-devel/x31.html:included 'fc-cache' program generally suffices for all of that.
+usr/share/doc/pkg-config/pkg-config-guide.html:includedir=${prefix}/include
+usr/share/doc/pkg-config/pkg-config-guide.html:includedir=${prefix}/include
+usr/share/doc/pkg-config/pkg-config-guide.html:includedir=${prefix}/include
+usr/share/doc/pkg-config/pkg-config-guide.html:includedir=${prefix}/include
+usr/share/doc/git/contrib/vim/README:included with the vim distribution as of vim 7.2, and should work
+usr/share/doc/git/RelNotes/1.7.6.txt:included in this release.
+usr/share/doc/git/RelNotes/1.7.8.txt:included in this release.
+usr/share/doc/git/RelNotes/1.7.7.txt:included in this release.
+usr/share/doc/libpcrecpp0/copyright:included in the distribution is a set of C++ wrapper functions.
+usr/share/doc/libjasper1/copyright:includes the disclaimer below) shall be included in all copies or
+usr/share/doc/libruby1.9.1/syslog/syslog.txt:include Syslog::Constants
+usr/share/doc/xtrans-dev/README:includes and builds it's own copy of with various #ifdef flags to make
+usr/share/doc/libexpat1-dev/expat.html/reference.html:include file:</p>
+usr/share/doc/libexpat1-dev/expat.html/reference.html:include</p>
+usr/share/doc/libfreetype6/pcf/README:included in all copies or substantial portions of the Software.
+usr/share/doc/x11proto-core-dev/x11protocol.html:included in the standard set. Each vendor decides which of its keys
+usr/share/doc/libjasper-dev/copyright:includes the disclaimer below) shall be included in all copies or
+usr/share/doc/libcomerr2/html-info/com_err.html:included in the source of a module which wishes to reference the error
+usr/share/doc/libcomerr2/html-info/com_err.html:include the following:
+usr/share/doc/autoconf/README.Debian:includes, particularly:
+usr/share/doc/libxslt1-dev/tutorial2/libxslt_pipes.html:include directories in the compilation options. In the end, if the
+usr/share/doc/libpcre3-dev/copyright:included in the distribution is a set of C++ wrapper functions.
+usr/share/doc/libgraphviz-dev/copyright:includes the Program in a commercial product offering should do so in a manner
+usr/share/doc/libcdt5/copyright:includes the Program in a commercial product offering should do so in a manner
+usr/share/doc/libgvc6/copyright:includes the Program in a commercial product offering should do so in a manner
+usr/share/doc/subversion/svn_1.7_releasenotes.html:included a number of Subversion dependencies.  In the past, these dependencies
+usr/share/doc/libgvpr2/copyright:includes the Program in a commercial product offering should do so in a manner
+usr/share/doc/vim-runtime/copyright:included with the license (or its incorporation by reference) in derived works.
+usr/share/doc/libpathplan4/copyright:includes the Program in a commercial product offering should do so in a manner
+usr/share/doc/m4/examples/foreachq4.m4:include(`forloop2.m4')dnl
+usr/share/doc/m4/examples/undivert.m4:include(`undivert.incl')
+usr/share/doc/m4/examples/foreachq.m4:include(`quote.m4')dnl
+usr/share/doc/m4/examples/loop.m4:include(`forloop2.m4')dnl
+usr/share/doc/m4/examples/loop.m4:include(`quote.m4')dnl
+usr/share/doc/m4/examples/loop.m4:include(`foreachq'alt`.m4')dnl
+usr/share/doc/m4/examples/foreach2.m4:include(`quote.m4')dnl
+usr/share/doc/m4/examples/include.m4:include(`NOFILE')
+usr/share/doc/m4/examples/include.m4:include(`test/incl-test.m4')
+usr/share/doc/m4/examples/include.m4:include(`NOFILE')
+usr/share/doc/m4/examples/foreachq2.m4:include(`quote.m4')dnl
+usr/share/doc/m4/examples/wraplifo2.m4:include(`join.m4')dnl
+usr/share/doc/unattended-upgrades/README.md:includes the dpkg output as well.
+usr/share/doc/fontconfig/fontconfig-user.html:includes Azerbaijani, Kurdish, Pashto, Tigrinya and Chinese.
+usr/share/doc/libcgraph6/copyright:includes the Program in a commercial product offering should do so in a manner
+usr/share/doc/x11proto-xext-dev/evi.html:included in all copies of the Software:
+usr/share/doc/x11proto-xext-dev/tog-cup.html:included in all copies of the Software:
+usr/share/doc/x11proto-kb-dev/xkbproto.html:include the locked state of the modifiers in the ignore locks mask are key
+usr/share/doc/x11proto-kb-dev/xkbproto.html:include a rectangular <span class="emphasis"><em>
+usr/share/doc/libfftw3-double3/README.Debian:included in the regular libraries. The routines should automatically
+usr/share/doc/ca-certificates/README.Debian:included in the Mozilla trust store will be included in the ca-certificates
+usr/share/doc/python/faq/programming.html:includes a graphical debugger.  There is documentation for the IDLE
+usr/share/doc/python/faq/gui.html:includes an interface to the Microsoft Foundation
+usr/share/doc/python/faq/general.html:includes functions which provide backward compatibility at the API level,
+usr/share/doc/xkb-data/copyright:included in all copies or substantial portions of the Software.
+usr/share/doc/xkb-data/copyright:included in all copies or substantial portions of the Software.
+usr/share/doc/xkb-data/copyright:included in all copies or substantial portions of the Software.
+usr/share/doc/perl/README.Debian:include using a simple setuid C wrapper to execute a perl script from a
+usr/share/doc/vim-common/copyright:included with the license (or its incorporation by reference) in derived works.
+usr/share/doc/libklibc/README.klibc.arch:includes some architecture-specific header files, including
+usr/share/doc/libklibc/README.klibc.arch:include/klibc/sysconfig.h.
+usr/share/doc/adduser/examples/README:included in the "examples" directory --- do what you like with these.
+usr/share/doc/libpcre3/copyright:included in the distribution is a set of C++ wrapper functions.
+usr/share/doc/findutils/README:included `updatedb' script from cron periodically (typically nightly).
+usr/share/postgresql-common/t/060_obsolete_confparams.t:include_if_exists = 'exists.conf'
+usr/share/postgresql-common/t/060_obsolete_confparams.t:include_if_exists = 'exists.conf'
+usr/share/postgresql-common/t/005_PgCommon.t:include '8.4/test/foo.conf'
+usr/share/postgresql-common/t/005_PgCommon.t:include_if_exists '/nonexisting.conf'
+usr/share/postgresql-common/t/005_PgCommon.t:include_if_exists '8.4/test/condinc.conf'
+usr/share/X11/locale/zh_HK.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/locale/sr_CS.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/locale/pt_BR.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/locale/ko_KR.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/locale/zh_TW.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/locale/fi_FI.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/locale/th_TH.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/locale/km_KH.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/locale/zh_CN.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/locale/ja_JP.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/locale/ru_RU.UTF-8/Compose:include "/usr/share/X11/locale/en_US.UTF-8/Compose"
+usr/share/X11/xkb/symbols/macintosh_vndr/fr:include "macintosh_vndr/fr(extended)"
+usr/share/X11/xkb/symbols/ru:include "ru(common)"
+usr/share/vim/vim74/doc/pi_netrw.txt:include command line options (such as -p for passive mode). Example: >
+usr/share/vim/vim74/doc/version6.txt:included in the Vim distribution, etc.
+usr/share/vim/vim74/doc/version6.txt:include the pattern when the "EW_NOTFOUND" flag was set.
+usr/share/vim/vim74/doc/version6.txt:included in vim.h.  Moved the definition of EXTERN to vim.h to avoid doing it
+usr/share/vim/vim74/doc/usr_29.txt:included files and display the match in the preview window.  This is
+usr/share/vim/vim74/doc/usr_29.txt:included files.
+usr/share/vim/vim74/doc/usr_29.txt:includes.  The "functions.h" and "clib/exec_protos.h" files, included by
+usr/share/vim/vim74/doc/insert.txt:include the "-", call-with-output-file.  Depending on your filetype, this may
+usr/share/vim/vim74/doc/options.txt:include the "|" in the option value, use "\|" instead.  This example sets the
+usr/share/vim/vim74/doc/map.txt:included in {rhs} is encountered it will be replaced with {rhs}, and so on.
+usr/share/vim/vim74/doc/change.txt:includes the 'b' flag.  For three-piece comments, Vim checks the text after
+usr/share/vim/vim74/doc/ft_sql.txt:included with the Vim distribution.  If you wish to customize the maps
+usr/share/vim/vim74/doc/tags:include-search	tagsrch.txt	/*include-search*
+usr/share/vim/vim74/doc/spell.txt:include characters like '-' in 'iskeyword'.  The word characters do depend on
+usr/share/vim/vim74/doc/tagsrch.txt:included files (recursively).  This can be used to find the definition of a
+usr/share/vim/vim74/doc/tagsrch.txt:included file is searched, not a buffer that may be editing that file.  Only
+usr/share/vim/vim74/doc/gui_w32.txt:included, the text is copied to the clipboard even when it is not operated
+usr/share/vim/vim74/doc/intro.txt:includes almost all the commands from the Unix program "Vi" and a lot of new
+usr/share/vim/vim74/doc/os_msdos.txt:include the "share" command in your config.sys or autoexec.bat (see your MSDOS
+usr/share/vim/vim74/doc/usr_10.txt:include all the lines.)
+usr/share/vim/vim74/doc/usr_10.txt:includes the word "long" in the first and last line of this text, and thus has
+usr/share/vim/vim74/doc/netbeans.txt:included.  That is, if the configure check to find out if your system supports
+usr/share/vim/vim74/doc/gui.txt:included.  You can check this with the ":version" command, it says "with xxx
+usr/share/vim/vim74/doc/gui.txt:include the 'h' flag in 'guioptions'.  Then the scrolling is limited by the
+usr/share/vim/vim74/doc/gui.txt:included they make the <> form and raw key codes not being recognized).
+usr/share/vim/vim74/doc/starting.txt:included, this might not always be what you want.
+usr/share/vim/vim74/doc/usr_44.txt:includes a "contains=xComment" argument.  Now look what happens with this
+usr/share/vim/vim74/doc/usr_41.txt:included.  As a consequence of this behavior, you don't always see that
+usr/share/vim/vim74/doc/version5.txt:includes the global vimrc, gvimrc, and menu.vim files and all on-line help
+usr/share/vim/vim74/doc/version5.txt:included in 'isk'), they were not escaped. (Parmelan)
+usr/share/vim/vim74/doc/version5.txt:includes the last character in the line, the cursor could be left on the last
+usr/share/vim/vim74/doc/syntax.txt:included in the generated HTML (unless it is folded): >
+usr/share/vim/vim74/doc/syntax.txt:included with XFree86 3.3 and later).  You can also find the latest version
+usr/share/vim/vim74/doc/syntax.txt:include as much literal text as possible to reduce the number of ways a
+usr/share/vim/vim74/doc/version7.txt:included in the file name. (suggested by Emanuele Giaquinta)
+usr/share/dpkg/default.mk:include $(dpkg_datadir)/architecture.mk
+usr/share/dpkg/default.mk:include $(dpkg_datadir)/buildflags.mk
+usr/share/dpkg/default.mk:include $(dpkg_datadir)/pkg-info.mk
+usr/share/dpkg/default.mk:include $(dpkg_datadir)/vendor.mk
+usr/share/cmake-2.8/Modules/FindJNI.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgAnimation.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgAnimation.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FortranCInterface/CMakeLists.txt:include(${FortranCInterface_BINARY_DIR}/Input.cmake OPTIONAL)
+usr/share/cmake-2.8/Modules/FortranCInterface/CMakeLists.txt:include(CheckCSourceCompiles)
+usr/share/cmake-2.8/Modules/FortranCInterface/Verify/CMakeLists.txt:include(FortranCInterface)
+usr/share/cmake-2.8/Modules/FortranCInterface/Verify/CMakeLists.txt:include_directories(${VerifyFortranC_BINARY_DIR})
+usr/share/cmake-2.8/Modules/FindDCMTK.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindTCL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CMakeFindFrameworks.cmake)
+usr/share/cmake-2.8/Modules/FindTCL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindTclsh.cmake)
+usr/share/cmake-2.8/Modules/FindTCL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindWish.cmake)
+usr/share/cmake-2.8/Modules/FindTCL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindPerl.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindCygwin.cmake)
+usr/share/cmake-2.8/Modules/FindPerl.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindSelfPackers.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindCygwin.cmake)
+usr/share/cmake-2.8/Modules/FeatureSummary.cmake:include("${CMAKE_CURRENT_LIST_DIR}/CMakeParseArguments.cmake")
+usr/share/cmake-2.8/Modules/CMakeDetermineCompilerABI.cmake:include(${CMAKE_ROOT}/Modules/CMakeParseImplicitLinkInfo.cmake)
+usr/share/cmake-2.8/Modules/CMakeASMInformation.cmake:include(Platform/${CMAKE_SYSTEM_NAME}-${CMAKE_ASM${ASM_DIALECT}_COMPILER_ID}-ASM${ASM_DIALECT} OPTIONAL  RESULT_VARIABLE _INCLUDED_FILE)
+usr/share/cmake-2.8/Modules/FindIcotool.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindQuickTime.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgSim.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgSim.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgProducer.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgProducer.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindHg.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindGTK2.cmake:include(${CMAKE_CURRENT_LIST_DIR}/SelectLibraryConfigurations.cmake)
+usr/share/cmake-2.8/Modules/FindGTK2.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindTclsh.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindCURL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindLua50.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindBISON.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindMPEG2.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindHSPELL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindSDL_mixer.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindOpenSSL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindUnixCommands.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindCygwin.cmake)
+usr/share/cmake-2.8/Modules/UseJava.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CMakeParseArguments.cmake)
+usr/share/cmake-2.8/Modules/FindGDAL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgPresentation.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgPresentation.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/Platform/Linux-Clang-C.cmake:include(Platform/Linux-GNU-C)
+usr/share/cmake-2.8/Modules/Platform/AIX-GNU-ASM.cmake:include(Platform/AIX-GNU)
+usr/share/cmake-2.8/Modules/Platform/Haiku.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/BlueGeneP-dynamic.cmake:include(Platform/BlueGeneP-base)
+usr/share/cmake-2.8/Modules/Platform/OpenVMS.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Catamount.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Linux-PGI-CXX.cmake:include(Platform/Linux-PGI)
+usr/share/cmake-2.8/Modules/Platform/MP-RAS.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/HP-UX-GNU-C.cmake:include(Platform/HP-UX-GNU)
+usr/share/cmake-2.8/Modules/Platform/HP-UX-GNU-CXX.cmake:include(Platform/HP-UX-GNU)
+usr/share/cmake-2.8/Modules/Platform/FreeBSD.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Darwin-GNU-Fortran.cmake:include(Platform/Darwin-GNU)
+usr/share/cmake-2.8/Modules/Platform/HP-UX-GNU-Fortran.cmake:include(Platform/HP-UX-GNU)
+usr/share/cmake-2.8/Modules/Platform/SunOS-GNU-Fortran.cmake:include(Platform/SunOS-GNU)
+usr/share/cmake-2.8/Modules/Platform/Windows-Intel.cmake:include("${CMAKE_PLATFORM_INFO_DIR}/CMakeIntelInformation.cmake" OPTIONAL)
+usr/share/cmake-2.8/Modules/Platform/AIX-VisualAge-CXX.cmake:include(Platform/AIX-XL-CXX)
+usr/share/cmake-2.8/Modules/Platform/WindowsCE-MSVC.cmake:include(Platform/Windows-MSVC)
+usr/share/cmake-2.8/Modules/Platform/Generic-ADSP-C.cmake:include(Platform/Generic-ADSP-Common)
+usr/share/cmake-2.8/Modules/Platform/Windows-Borland-CXX.cmake:include(Platform/Windows-Embarcadero-CXX)
+usr/share/cmake-2.8/Modules/Platform/Windows-Intel-CXX.cmake:include(Platform/Windows-Intel)
+usr/share/cmake-2.8/Modules/Platform/SunOS-GNU-C.cmake:include(Platform/SunOS-GNU)
+usr/share/cmake-2.8/Modules/Platform/Windows-Intel-ASM.cmake:include(Platform/Windows-Intel)
+usr/share/cmake-2.8/Modules/Platform/BlueGeneL.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/WindowsCE-MSVC-C.cmake:include(Platform/Windows-MSVC-C)
+usr/share/cmake-2.8/Modules/Platform/Linux-VisualAge-CXX.cmake:include(Platform/Linux-XL-CXX)
+usr/share/cmake-2.8/Modules/Platform/Windows-GNU-CXX.cmake:include(Platform/Windows-GNU)
+usr/share/cmake-2.8/Modules/Platform/Linux-VisualAge-C.cmake:include(Platform/Linux-XL-C)
+usr/share/cmake-2.8/Modules/Platform/Darwin-GNU-C.cmake:include(Platform/Darwin-GNU)
+usr/share/cmake-2.8/Modules/Platform/Windows-Embarcadero-C.cmake:include(Platform/Windows-Embarcadero)
+usr/share/cmake-2.8/Modules/Platform/Windows-GNU-Fortran.cmake:include(Platform/Windows-GNU)
+usr/share/cmake-2.8/Modules/Platform/Linux-PathScale-Fortran.cmake:include(Platform/Linux-PathScale)
+usr/share/cmake-2.8/Modules/Platform/Linux-GNU-CXX.cmake:include(Platform/Linux-GNU)
+usr/share/cmake-2.8/Modules/Platform/NetBSD.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Darwin-VisualAge-CXX.cmake:include(Platform/Darwin-XL-CXX)
+usr/share/cmake-2.8/Modules/Platform/Darwin-GNU-CXX.cmake:include(Platform/Darwin-GNU)
+usr/share/cmake-2.8/Modules/Platform/OSF1.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/WindowsCE.cmake:include(Platform/Windows)
+usr/share/cmake-2.8/Modules/Platform/AIX.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Linux-PGI-Fortran.cmake:include(Platform/Linux-PGI)
+usr/share/cmake-2.8/Modules/Platform/Generic-ADSP-ASM.cmake:include(Platform/Generic-ADSP-Common)
+usr/share/cmake-2.8/Modules/Platform/SCO_SV.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/IRIX.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/DragonFly.cmake:include(Platform/FreeBSD)
+usr/share/cmake-2.8/Modules/Platform/SunOS.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/ULTRIX.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Linux-PathScale-C.cmake:include(Platform/Linux-PathScale)
+usr/share/cmake-2.8/Modules/Platform/Darwin-icc.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/CYGWIN-GNU-CXX.cmake:include(Platform/CYGWIN-GNU)
+usr/share/cmake-2.8/Modules/Platform/HP-UX.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/HP-UX-HP-Fortran.cmake:include(Platform/HP-UX-HP)
+usr/share/cmake-2.8/Modules/Platform/AIX-XL-ASM.cmake:include(Platform/AIX-XL)
+usr/share/cmake-2.8/Modules/Platform/BeOS.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/AIX-XL-CXX.cmake:include(Platform/AIX-XL)
+usr/share/cmake-2.8/Modules/Platform/Linux-Intel-C.cmake:include(Platform/Linux-Intel)
+usr/share/cmake-2.8/Modules/Platform/Darwin.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Windows-MSVC-CXX.cmake:include(Platform/Windows-MSVC)
+usr/share/cmake-2.8/Modules/Platform/Linux-Clang-CXX.cmake:include(Platform/Linux-GNU-CXX)
+usr/share/cmake-2.8/Modules/Platform/Linux-Intel-Fortran.cmake:include(Platform/Linux-Intel)
+usr/share/cmake-2.8/Modules/Platform/AIX-GNU-C.cmake:include(Platform/AIX-GNU)
+usr/share/cmake-2.8/Modules/Platform/Windows-Intel-Fortran.cmake:include(Platform/Windows-Intel)
+usr/share/cmake-2.8/Modules/Platform/BlueGeneP-static.cmake:include(Platform/BlueGeneP-base)
+usr/share/cmake-2.8/Modules/Platform/Generic-ADSP-CXX.cmake:include(Platform/Generic-ADSP-Common)
+usr/share/cmake-2.8/Modules/Platform/SunOS-GNU-CXX.cmake:include(Platform/SunOS-GNU)
+usr/share/cmake-2.8/Modules/Platform/Darwin-VisualAge-C.cmake:include(Platform/Darwin-XL-C)
+usr/share/cmake-2.8/Modules/Platform/OpenBSD.cmake:include(Platform/NetBSD)
+usr/share/cmake-2.8/Modules/Platform/GNU.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Xenix.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Linux-PathScale-CXX.cmake:include(Platform/Linux-PathScale)
+usr/share/cmake-2.8/Modules/Platform/kFreeBSD.cmake:include(Platform/Linux)
+usr/share/cmake-2.8/Modules/Platform/Linux-PGI-C.cmake:include(Platform/Linux-PGI)
+usr/share/cmake-2.8/Modules/Platform/AIX-VisualAge-Fortran.cmake:include(Platform/AIX-XL-Fortran)
+usr/share/cmake-2.8/Modules/Platform/AIX-GNU-Fortran.cmake:include(Platform/AIX-GNU)
+usr/share/cmake-2.8/Modules/Platform/Linux-VisualAge-Fortran.cmake:include(Platform/Linux-XL-Fortran)
+usr/share/cmake-2.8/Modules/Platform/Darwin-Clang-C.cmake:include(Platform/Darwin-Clang)
+usr/share/cmake-2.8/Modules/Platform/Windows-MSVC-C.cmake:include(Platform/Windows-MSVC)
+usr/share/cmake-2.8/Modules/Platform/BSDOS.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/SINIX.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/CYGWIN-GNU-Fortran.cmake:include(Platform/CYGWIN-GNU)
+usr/share/cmake-2.8/Modules/Platform/Linux-GNU-Fortran.cmake:include(Platform/Linux-GNU)
+usr/share/cmake-2.8/Modules/Platform/HP-UX-HP-ASM.cmake:include(Platform/HP-UX-HP)
+usr/share/cmake-2.8/Modules/Platform/Windows.cmake:include(Platform/WindowsPaths)
+usr/share/cmake-2.8/Modules/Platform/eCos.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/eCos.cmake:include_directories(${ECOS_SYSTEM_CONFIG_HEADER_PATH})
+usr/share/cmake-2.8/Modules/Platform/AIX-GNU-CXX.cmake:include(Platform/AIX-GNU)
+usr/share/cmake-2.8/Modules/Platform/Tru64.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/QNX.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/AIX-XL-C.cmake:include(Platform/AIX-XL)
+usr/share/cmake-2.8/Modules/Platform/UNIX_SV.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/AIX-XL-Fortran.cmake:include(Platform/AIX-XL)
+usr/share/cmake-2.8/Modules/Platform/Linux.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Windows-Borland-C.cmake:include(Platform/Windows-Embarcadero-C)
+usr/share/cmake-2.8/Modules/Platform/Windows-Intel-C.cmake:include(Platform/Windows-Intel)
+usr/share/cmake-2.8/Modules/Platform/HP-UX-HP-C.cmake:include(Platform/HP-UX-HP)
+usr/share/cmake-2.8/Modules/Platform/CYGWIN-GNU-C.cmake:include(Platform/CYGWIN-GNU)
+usr/share/cmake-2.8/Modules/Platform/Linux-Intel-CXX.cmake:include(Platform/Linux-Intel)
+usr/share/cmake-2.8/Modules/Platform/Windows-NMcl.cmake:include(Platform/Windows-cl)
+usr/share/cmake-2.8/Modules/Platform/UnixWare.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/IRIX64.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/syllable.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/AIX-VisualAge-C.cmake:include(Platform/AIX-XL-C)
+usr/share/cmake-2.8/Modules/Platform/RISCos.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/CYGWIN.cmake:include(Platform/UnixPaths)
+usr/share/cmake-2.8/Modules/Platform/Windows-Embarcadero-CXX.cmake:include(Platform/Windows-Embarcadero)
+usr/share/cmake-2.8/Modules/Platform/Darwin-Clang-CXX.cmake:include(Platform/Darwin-Clang)
+usr/share/cmake-2.8/Modules/Platform/HP-UX-HP-CXX.cmake:include(Platform/HP-UX-HP)
+usr/share/cmake-2.8/Modules/Platform/Windows-GNU-C.cmake:include(Platform/Windows-GNU)
+usr/share/cmake-2.8/Modules/Platform/WindowsCE-MSVC-CXX.cmake:include(Platform/Windows-MSVC-CXX)
+usr/share/cmake-2.8/Modules/Platform/Windows-G95-Fortran.cmake:include(Platform/Windows-GNU-Fortran)
+usr/share/cmake-2.8/Modules/Platform/Linux-GNU-C.cmake:include(Platform/Linux-GNU)
+usr/share/cmake-2.8/Modules/Platform/Darwin-icpc.cmake:include ( ${CURRENT_SOURCE_PARENT}/Darwin-icc.cmake)
+usr/share/cmake-2.8/Modules/FindPerlLibs.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPerl.cmake)
+usr/share/cmake-2.8/Modules/FindPerlLibs.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindQt3.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindMotif.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeFindCodeBlocks.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake)
+usr/share/cmake-2.8/Modules/FindSWIG.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindLibLZMA.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/UseVTK40.cmake:include_directories(${VTK_INCLUDE_DIRS})
+usr/share/cmake-2.8/Modules/FindSDL_ttf.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgIntrospection.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgIntrospection.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgQt.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgQt.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindMPI.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindMPI.cmake:include(${CMAKE_CURRENT_LIST_DIR}/GetPrerequisites.cmake)
+usr/share/cmake-2.8/Modules/CMakeASM_MASMInformation.cmake:include(CMakeASMInformation)
+usr/share/cmake-2.8/Modules/TestForANSIStreamHeaders.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CheckIncludeFileCXX.cmake)
+usr/share/cmake-2.8/Modules/CMakeTestASM-ATTCompiler.cmake:include(CMakeTestASMCompiler)
+usr/share/cmake-2.8/Modules/FindSDL_net.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeTestFortranCompiler.cmake:include(CMakeTestCompilerCommon)
+usr/share/cmake-2.8/Modules/FindGnuplot.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindCygwin.cmake)
+usr/share/cmake-2.8/Modules/FindGnuplot.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindCUDA.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeCXXInformation.cmake:include(CMakeCommonLanguageInclude)
+usr/share/cmake-2.8/Modules/BundleUtilities.cmake:include("${BundleUtilities_cmake_dir}/GetPrerequisites.cmake")
+usr/share/cmake-2.8/Modules/FindPythonInterp.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindQt4.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CheckCXXSymbolExists.cmake)
+usr/share/cmake-2.8/Modules/FindQt4.cmake:include(${CMAKE_CURRENT_LIST_DIR}/MacroAddFileDependencies.cmake)
+usr/share/cmake-2.8/Modules/FindQt4.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindDoxygen.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CPack.cmake:include(CPackComponent)
+usr/share/cmake-2.8/Modules/FindGit.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindPackageHandleStandardArgs.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageMessage.cmake)
+usr/share/cmake-2.8/Modules/FindPackageHandleStandardArgs.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CMakeParseArguments.cmake)
+usr/share/cmake-2.8/Modules/CMakePackageConfigHelpers.cmake:include(CMakeParseArguments)
+usr/share/cmake-2.8/Modules/CMakePackageConfigHelpers.cmake:include(WriteBasicConfigVersionFile)
+usr/share/cmake-2.8/Modules/FindosgManipulator.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgManipulator.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindWget.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindCygwin.cmake)
+usr/share/cmake-2.8/Modules/FindWget.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/Compiler/PGI-C.cmake:include(Compiler/PGI)
+usr/share/cmake-2.8/Modules/Compiler/IAR-C.cmake:include(Compiler/IAR)
+usr/share/cmake-2.8/Modules/Compiler/IAR-C.cmake:include_directories("${_compilerDir}/inc" )
+usr/share/cmake-2.8/Modules/Compiler/VisualAge-C.cmake:include(Compiler/XL-C)
+usr/share/cmake-2.8/Modules/Compiler/VisualAge-CXX.cmake:include(Compiler/XL-CXX)
+usr/share/cmake-2.8/Modules/Compiler/IAR-CXX.cmake:include(Compiler/IAR)
+usr/share/cmake-2.8/Modules/Compiler/IAR-CXX.cmake:include_directories("${_compilerDir}/inc")
+usr/share/cmake-2.8/Modules/Compiler/GNU-CXX.cmake:include(Compiler/GNU)
+usr/share/cmake-2.8/Modules/Compiler/VisualAge-Fortran.cmake:include(Compiler/XL-Fortran)
+usr/share/cmake-2.8/Modules/Compiler/PGI-CXX.cmake:include(Compiler/PGI)
+usr/share/cmake-2.8/Modules/Compiler/Clang.cmake:include(Compiler/GNU)
+usr/share/cmake-2.8/Modules/Compiler/GNU-C.cmake:include(Compiler/GNU)
+usr/share/cmake-2.8/Modules/Compiler/Clang-CXX.cmake:include(Compiler/Clang)
+usr/share/cmake-2.8/Modules/Compiler/PathScale-C.cmake:include(Compiler/PathScale)
+usr/share/cmake-2.8/Modules/Compiler/PathScale-Fortran.cmake:include(Compiler/PathScale)
+usr/share/cmake-2.8/Modules/Compiler/PGI-Fortran.cmake:include(Compiler/PGI)
+usr/share/cmake-2.8/Modules/Compiler/GNU-Fortran.cmake:include(Compiler/GNU)
+usr/share/cmake-2.8/Modules/Compiler/GNU-ASM.cmake:include(Compiler/GNU)
+usr/share/cmake-2.8/Modules/Compiler/PathScale-CXX.cmake:include(Compiler/PathScale)
+usr/share/cmake-2.8/Modules/Compiler/XL-CXX.cmake:include(Compiler/XL)
+usr/share/cmake-2.8/Modules/Compiler/SCO-C.cmake:include(Compiler/SCO)
+usr/share/cmake-2.8/Modules/Compiler/IAR-ASM.cmake:include(Compiler/IAR)
+usr/share/cmake-2.8/Modules/Compiler/Clang-ASM.cmake:include(Compiler/Clang)
+usr/share/cmake-2.8/Modules/Compiler/Clang-C.cmake:include(Compiler/Clang)
+usr/share/cmake-2.8/Modules/Compiler/XL-Fortran.cmake:include(Compiler/XL)
+usr/share/cmake-2.8/Modules/Compiler/XL-C.cmake:include(Compiler/XL)
+usr/share/cmake-2.8/Modules/Compiler/SCO-CXX.cmake:include(Compiler/SCO)
+usr/share/cmake-2.8/Modules/FindASPELL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindDart.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgShadow.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgShadow.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeASM-ATTInformation.cmake:include(CMakeASMInformation)
+usr/share/cmake-2.8/Modules/FindGTest.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeTestCXXCompiler.cmake:include(CMakeTestCompilerCommon)
+usr/share/cmake-2.8/Modules/FindTIFF.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindOpenAL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeExpandImportedTargets.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CMakeParseArguments.cmake)
+usr/share/cmake-2.8/Modules/CMakeRCInformation.cmake:include(Platform/${CMAKE_SYSTEM_NAME}-${CMAKE_BASE_NAME} OPTIONAL)
+usr/share/cmake-2.8/Modules/FindSDL_image.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgWidget.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgWidget.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindImageMagick.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineASM_NASMCompiler.cmake:include(CMakeDetermineASMCompiler)
+usr/share/cmake-2.8/Modules/CheckTypeSize.cmake:include(CheckIncludeFile)
+usr/share/cmake-2.8/Modules/CMakeASM_NASMInformation.cmake:include(CMakeASMInformation)
+usr/share/cmake-2.8/Modules/CTest.cmake:include(CTestUseLaunchers)
+usr/share/cmake-2.8/Modules/FindFLTK.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FLTKCompatibility.cmake:include(CheckIncludeFile)
+usr/share/cmake-2.8/Modules/SystemInformation.cmake:include_directories("This does not exists")
+usr/share/cmake-2.8/Modules/FindPNG.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/GenerateExportHeader.cmake:include(CMakeParseArguments)
+usr/share/cmake-2.8/Modules/GenerateExportHeader.cmake:include(CheckCXXCompilerFlag)
+usr/share/cmake-2.8/Modules/Findosg.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/Findosg.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineASM-ATTCompiler.cmake:include(CMakeDetermineASMCompiler)
+usr/share/cmake-2.8/Modules/FindSDL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindFreetype.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindGLUT.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeTestCCompiler.cmake:include(CMakeTestCompilerCommon)
+usr/share/cmake-2.8/Modules/FindOpenThreads.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindGLU.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindOpenGL.cmake)
+usr/share/cmake-2.8/Modules/CheckStructHasMember.cmake:include(CheckCSourceCompiles)
+usr/share/cmake-2.8/Modules/CMakeCInformation.cmake:include(CMakeCommonLanguageInclude)
+usr/share/cmake-2.8/Modules/FindSubversion.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeFindEclipseCDT4.cmake:include(ProcessorCount)
+usr/share/cmake-2.8/Modules/CMakeFindEclipseCDT4.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CMakeExtraGeneratorDetermineCompilerMacrosAndIncludeDirs.cmake)
+usr/share/cmake-2.8/Modules/FindLibArchive.cmake:include(${CMAKE_ROOT}/Modules/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindThreads.cmake:include (CheckIncludeFiles)
+usr/share/cmake-2.8/Modules/FindThreads.cmake:include (CheckLibraryExists)
+usr/share/cmake-2.8/Modules/FindThreads.cmake:include (CheckSymbolExists)
+usr/share/cmake-2.8/Modules/FindThreads.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindHDF5.cmake:include(${CMAKE_CURRENT_LIST_DIR}/SelectLibraryConfigurations.cmake)
+usr/share/cmake-2.8/Modules/FindHDF5.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgUtil.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgUtil.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindZLIB.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgFX.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgFX.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgVolume.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgVolume.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CheckCXXCompilerFlag.cmake:include(CheckCXXSourceCompiles)
+usr/share/cmake-2.8/Modules/FindBZip2.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindCurses.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgViewer.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgViewer.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindCVS.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindDevIL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindJava.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindArmadillo.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindBLAS.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CheckFunctionExists.cmake)
+usr/share/cmake-2.8/Modules/FindBLAS.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CheckFortranFunctionExists.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineCXXCompiler.cmake:include(${CMAKE_ROOT}/Modules/CMakeDetermineCompiler.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineCXXCompiler.cmake:include(Platform/${CMAKE_SYSTEM_NAME}-CXX OPTIONAL)
+usr/share/cmake-2.8/Modules/CMakeDetermineCXXCompiler.cmake:include(${CMAKE_ROOT}/Modules/CMakeClDeps.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineCXXCompiler.cmake:include(CMakeFindBinUtils)
+usr/share/cmake-2.8/Modules/FindMPEG.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakePrintHelpers.cmake:include(CMakeParseArguments)
+usr/share/cmake-2.8/Modules/FindosgTerrain.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgTerrain.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CheckCXXSymbolExists.cmake:include(CheckSymbolExists)
+usr/share/cmake-2.8/Modules/CMakeDetermineFortranCompiler.cmake:include(${CMAKE_ROOT}/Modules/CMakeDetermineCompiler.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineFortranCompiler.cmake:include(Platform/${CMAKE_SYSTEM_NAME}-Fortran OPTIONAL)
+usr/share/cmake-2.8/Modules/CMakeDetermineFortranCompiler.cmake:include(CMakeFindBinUtils)
+usr/share/cmake-2.8/Modules/CMakeDetermineASM_MASMCompiler.cmake:include(CMakeDetermineASMCompiler)
+usr/share/cmake-2.8/Modules/FindEXPAT.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindALSA.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindGIF.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindKDE3.cmake:include(${CMAKE_CURRENT_LIST_DIR}/KDE3Macros.cmake)
+usr/share/cmake-2.8/Modules/CMakeTestASM_MASMCompiler.cmake:include(CMakeTestASMCompiler)
+usr/share/cmake-2.8/Modules/FindBullet.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgText.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgText.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindwxWidgets.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgGA.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgGA.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindSDL_sound.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineASMCompiler.cmake:include(${CMAKE_ROOT}/Modules/CMakeDetermineCompiler.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineASMCompiler.cmake:include(CMakeFindBinUtils)
+usr/share/cmake-2.8/Modules/FindCoin3D.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindPHP4.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeAddFortranSubdirectory.cmake:include(CheckLanguage)
+usr/share/cmake-2.8/Modules/CMakeAddFortranSubdirectory.cmake:include(ExternalProject)
+usr/share/cmake-2.8/Modules/CMakeAddFortranSubdirectory.cmake:include(CMakeParseArguments)
+usr/share/cmake-2.8/Modules/FindLAPACK.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CheckFunctionExists.cmake)
+usr/share/cmake-2.8/Modules/FindLAPACK.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CheckFortranFunctionExists.cmake)
+usr/share/cmake-2.8/Modules/CMakeSystemSpecificInformation.cmake:include(CMakeGenericSystem)
+usr/share/cmake-2.8/Modules/CMakeSystemSpecificInformation.cmake:include(${CMAKE_SYSTEM_INFO_FILE} OPTIONAL RESULT_VARIABLE _INCLUDED_SYSTEM_INFO_FILE)
+usr/share/cmake-2.8/Modules/CMakeFortranInformation.cmake:include(CMakeCommonLanguageInclude)
+usr/share/cmake-2.8/Modules/FindGettext.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindGettext.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CMakeParseArguments.cmake)
+usr/share/cmake-2.8/Modules/FindLibXslt.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgParticle.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgParticle.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindGLEW.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindProtobuf.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindPostgreSQL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindLibXml2.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindOpenGL.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindPhysFS.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindRTI.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindPkgConfig.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindAVIFile.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindTclStub.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindTCL.cmake)
+usr/share/cmake-2.8/Modules/CMakeTestASM_NASMCompiler.cmake:include(CMakeTestASMCompiler)
+usr/share/cmake-2.8/Modules/WriteBasicConfigVersionFile.cmake:include(CMakeParseArguments)
+usr/share/cmake-2.8/Modules/FindOpenSceneGraph.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindOpenSceneGraph.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CheckCCompilerFlag.cmake:include(CheckCSourceCompiles)
+usr/share/cmake-2.8/Modules/FindGnuTLS.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CTestScriptMode.cmake:include(CMakeDetermineSystem)
+usr/share/cmake-2.8/Modules/CTestScriptMode.cmake:include(CMakeSystemSpecificInformation)
+usr/share/cmake-2.8/Modules/FortranCInterface.cmake:include(${FortranCInterface_BINARY_DIR}/Output.cmake)
+usr/share/cmake-2.8/Modules/FindPythonLibs.cmake:include(${CMAKE_CURRENT_LIST_DIR}/CMakeFindFrameworks.cmake)
+usr/share/cmake-2.8/Modules/FindPythonLibs.cmake:include(${CMAKE_CURRENT_LIST_DIR}/SelectLibraryConfigurations.cmake)
+usr/share/cmake-2.8/Modules/FindPythonLibs.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindJPEG.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindJasper.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindProducer.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindRuby.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/DeployQt4.cmake:include("${CMAKE_CURRENT_LIST_DIR}/BundleUtilities.cmake")
+usr/share/cmake-2.8/Modules/KDE3Macros.cmake:include(AddFileDependencies)
+usr/share/cmake-2.8/Modules/FindCups.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindSquish.cmake:include(CMakeParseArguments)
+usr/share/cmake-2.8/Modules/FindSquish.cmake:include(FindPackageHandleStandardArgs)
+usr/share/cmake-2.8/Modules/FindFLEX.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/FindosgDB.cmake:include(${CMAKE_CURRENT_LIST_DIR}/Findosg_functions.cmake)
+usr/share/cmake-2.8/Modules/FindosgDB.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeFindPackageMode.cmake:include(CMakeDetermineSystem)
+usr/share/cmake-2.8/Modules/CMakeFindPackageMode.cmake:include(CMakeSystemSpecificInformation)
+usr/share/cmake-2.8/Modules/CMakeFindPackageMode.cmake:include(CMake${LANGUAGE}Information)
+usr/share/cmake-2.8/Modules/FindLua51.cmake:include(${CMAKE_CURRENT_LIST_DIR}/FindPackageHandleStandardArgs.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineCCompiler.cmake:include(${CMAKE_ROOT}/Modules/CMakeDetermineCompiler.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineCCompiler.cmake:include(Platform/${CMAKE_SYSTEM_NAME}-C OPTIONAL)
+usr/share/cmake-2.8/Modules/CMakeDetermineCCompiler.cmake:include(${CMAKE_ROOT}/Modules/CMakeClDeps.cmake)
+usr/share/cmake-2.8/Modules/CMakeDetermineCCompiler.cmake:include(CMakeFindBinUtils)
+usr/share/pkgconfig/xextproto.pc:includedir=${prefix}/include
+usr/share/pkgconfig/kbproto.pc:includedir=${prefix}/include
+usr/share/pkgconfig/xtrans.pc:includedir=${prefix}/include
+usr/share/pkgconfig/inputproto.pc:includedir=${prefix}/include
+usr/share/pkgconfig/xproto.pc:includedir=${prefix}/include
+usr/share/pkgconfig/xproto.pc:includex11dir=${prefix}/include/X11
+usr/share/pkgconfig/renderproto.pc:includedir=${prefix}/include
+usr/share/gir-1.0/GdkPixbuf-2.0.gir:include those in the #GDK_PIXBUF_ERROR domain and whatever the save
+usr/share/emacs/24.3/lisp/ldefs-boot.el:include it when specifying `grep-command'.
+usr/share/emacs/24.3/lisp/ldefs-boot.el:included in this list.  Suggested properties are `keymap',
+usr/share/emacs/24.3/lisp/loaddefs.el:include it when specifying `grep-command'.
+usr/share/emacs/24.3/lisp/loaddefs.el:included in this list.  Suggested properties are `keymap',
+usr/share/emacs/24.3/lisp/cedet/semantic/loaddefs.el:included files will be cached between runs.  Database-references
+usr/share/emacs/24.3/lisp/cedet/semantic/loaddefs.el:include the default behavior, and merely extend your own.
+usr/share/emacs/24.3/etc/NEWS:include differentiation.
+usr/share/emacs/24.3/etc/NEWS.19:includes the fontification of variable and function names in declaration lists.
+usr/share/emacs/24.3/etc/srecode/make.srt:include {{?NAME}}
+usr/share/emacs/24.3/etc/srecode/ede-make.srt:include {{ARDUINO_MK}}
+usr/share/emacs/24.3/etc/NEWS.22:includes C, C++ and Objective-C modes.
+usr/share/emacs/24.3/etc/NEWS.22:include files that aren't readable, e.g. files that don't exist.
+usr/share/emacs/24.3/etc/NEWS.21:include shell-mode, gdb-mode, scheme-interaction-mode, etc.
+usr/share/emacs/24.3/etc/copying.paper:include mathematical logic, classical music, and archaeology; and
+usr/share/emacs/24.3/etc/ETAGS.EBNF:includesec ::= filename ",include" [ LF fileprop ]
+usr/share/emacs/24.3/etc/PROBLEMS:include in the fontset spec:
+usr/share/emacs/24.3/etc/PROBLEMS:included in source code, the backslashes are interpreted as escape sequences.
+usr/share/emacs/24.3/etc/CONTRIBUTE:included in Emacs.
+usr/share/emacs/24.3/etc/refcards/vipcard.tex:include the line:
+usr/share/emacs/24.3/etc/DOC-24.3.1:include the tool bar or menu bar.
+usr/share/emacs/24.3/etc/DOC-24.3.1:include the space used by WINDOW's scroll bar, display margins, fringes,
+usr/share/emacs/24.3/etc/DOC-24.3.1:includes this.Vshared-game-score-directory
+usr/share/emacs/24.3/etc/DOC-24.3.1:include it when specifying `grep-command'.
+usr/share/emacs/24.3/etc/DOC-24.3.1:included in this list.  Suggested properties are `keymap',
+usr/share/emacs/24.3/etc/DOC-24.3.1:included in the mode-line minor mode menu.
+usr/share/emacs/24.3/etc/MH-E-NEWS:include `mh-store-mime-parts-default-directory' and
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-datatypes.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-attribs.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-frames.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-text.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-hypertext.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-lst.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-image.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-ssismap.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-base.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-link.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-meta.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-param.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-object.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-bdo.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-pres.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-edit.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-applet.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-form.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-xstyle.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-script.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-table.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-csismap.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-events.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-inlstyle.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-tgt.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-iframe.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-nameident.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml.rnc:include "xhtml-legacy.rnc"
+usr/share/emacs/24.3/etc/schema/xslt.rnc:include.element =
+usr/share/emacs/24.3/etc/schema/docbook.rnc:include "dbstart.rnc"
+usr/share/emacs/24.3/etc/schema/docbook.rnc:include "dbnotn.rnc"
+usr/share/emacs/24.3/etc/schema/docbook.rnc:include "dbpool.rnc"
+usr/share/emacs/24.3/etc/schema/docbook.rnc:include "dbcalstbl.rnc"
+usr/share/emacs/24.3/etc/schema/docbook.rnc:include "dbhier.rnc"
+usr/share/emacs/24.3/etc/schema/xhtml-frames.rnc:include "xhtml-struct.rnc" {
+usr/share/emacs/24.3/etc/schema/dbcalstbl.rnc:include "calstbl.rnc" {
+usr/share/emacs/24.3/etc/schema/xhtml-form.rnc:include "xhtml-bform.rnc" {
+usr/share/emacs/24.3/etc/schema/relaxng.rnc:includeContent =
+usr/share/emacs/24.3/etc/schema/xhtml-table.rnc:include "xhtml-btable.rnc" {
+usr/share/emacs/24.3/etc/NEWS.20:include:
+usr/share/emacs/24.3/etc/NEWS.20:includes all the characters in these character sets, and Emacs can
+usr/share/emacs/24.3/etc/NEWS.20:include insert-char, char-to-string, and the %c construct in the
+usr/share/libtool/libltdl/COPYING.LIB:included without limitation in the term "modification".)
+usr/share/libtool/libltdl/Makefile.in:includedir = @includedir@
+usr/share/libtool/libltdl/Makefile.in:include_HEADERS = $(am__append_1)
+usr/share/libtool/libltdl/Makefile.inc:include_HEADERS	       += libltdl/ltdl.h
+usr/share/libtool/libltdl/Makefile.am:include_HEADERS =
+usr/share/libtool/libltdl/Makefile.am:include_HEADERS	       += ltdl.h
+usr/share/libtool/libltdl/configure:includedir
+usr/share/libtool/libltdl/configure:includedir='${prefix}/include'
+usr/share/libtool/libltdl/configure:include_expsyms='`$ECHO "$include_expsyms" | $SED "$delay_single_quote_subst"`'
+usr/share/libtool/libltdl/configure:include_expsyms \
+usr/share/libtool/libltdl/configure:include_expsyms=$lt_include_expsyms
+usr/share/gtk-doc/html/libtasn1/libtasn1-libtasn1.html:included in <em class="parameter"><code>inputFileName</code></em>
+usr/share/perl/5.18.2/Pod/Simple/XHTML.pm:include linkable IDs or anchor names in its pages. Subclass to link to a
+usr/share/perl/5.18.2/Pod/Simple/Search.pm:include it in case it might prove useful for someone somewhere.
+usr/share/perl/5.18.2/Pod/Simple/Search.pm:include it in case it might prove useful for someone somewhere.
+usr/share/perl/5.18.2/Pod/Escapes.pm:include numerics (like "64" or "x981c").  Under old Perl versions
+usr/share/perl/5.18.2/Pod/Escapes.pm:include numerics (like "64" or "x981c").
+usr/share/perl/5.18.2/Test.pm:included.
+usr/share/perl/5.18.2/IO/Compress/FAQ.pod:include the C<MultiStream> option, as shown below
+usr/share/perl/5.18.2/IO/Compress/FAQ.pod:include the C<MultiStream> option, as shown below
+usr/share/perl/5.18.2/ExtUtils/MakeMaker.pm:included.  This is used by 'make dist' to name the resulting archive
+usr/share/perl/5.18.2/FindBin.pm:included with perl.
+usr/share/perl/5.18.2/B/Lint.pm:include other package names whose subs are then checked by Lint.
+usr/share/perl/5.18.2/B/Deparse.pm:include more than one secondary file.  (Most of the time you don't want to
+usr/share/perl/5.18.2/Tie/RefHash.pm:included as part of Tie::RefHash.
+usr/share/perl/5.18.2/pod/perldiag.pod:included unseen whitespace before or after your closing tag or there
+usr/share/perl/5.18.2/pod/perldiag.pod:include a closing bracket in a character class, backslash it or put it
+usr/share/perl/5.18.2/version/Internals.pod:included in the main F<version.pm> file.  Primitives are included for
+usr/share/perl/5.18.2/version/Internals.pod:included in your own regular expressions freely.  For example, consider
+usr/share/perl/5.18.2/version/Internals.pod:includes either the stringified form or the normal form, depending on how
+usr/share/perl/5.18.2/Time/Local.pm:included with Perl 4.036, and was most likely written by Tom
+usr/share/perl/5.18.2/HTTP/Tiny.pm:included with it as a source of trusted CA's.  (This means you trust Mozilla,
+usr/share/perl/5.18.2/charnames.pm:included.
+usr/share/perl/5.18.2/Config/Perl/V.pm:include more entries from %ENV. See L<environment> below.
+usr/share/i18n/locales/pa_IN:include     "translit_combining";""
+usr/share/i18n/locales/oc_FR:include "translit_combining";""
+usr/share/i18n/locales/pa_PK:include "translit_combining";""
+usr/share/i18n/locales/de_DE:include "translit_combining";""
+usr/share/i18n/locales/ve_ZA:include  "translit_combining";""
+usr/share/i18n/locales/rw_RW:include  "translit_combining";""
+usr/share/i18n/locales/es_ES:include "translit_combining";""
+usr/share/i18n/locales/ber_DZ:include "translit_combining";""
+usr/share/i18n/locales/en_GB:include "translit_combining";""
+usr/share/i18n/locales/kw_GB:include  "translit_combining";""
+usr/share/i18n/locales/pl_PL:include  "translit_combining";""
+usr/share/i18n/locales/fa_IR:include "translit_combining";""
+usr/share/i18n/locales/hu_HU:include "translit_combining";""
+usr/share/i18n/locales/bg_BG:include "translit_combining";""
+usr/share/i18n/locales/sl_SI:include  "translit_combining";""
+usr/share/i18n/locales/aa_DJ:include "translit_combining";""
+usr/share/i18n/locales/unm_US:include "translit_combining";""
+usr/share/i18n/locales/fr_FR:include "translit_combining";""
+usr/share/i18n/locales/tg_TJ:include  "translit_combining";""
+usr/share/i18n/locales/translit_neutral:include "translit_circle";""
+usr/share/i18n/locales/translit_neutral:include "translit_cjk_compat";""
+usr/share/i18n/locales/translit_neutral:include "translit_compat";""
+usr/share/i18n/locales/translit_neutral:include "translit_font";""
+usr/share/i18n/locales/translit_neutral:include "translit_fraction";""
+usr/share/i18n/locales/translit_neutral:include "translit_narrow";""
+usr/share/i18n/locales/translit_neutral:include "translit_small";""
+usr/share/i18n/locales/translit_neutral:include "translit_wide";""
+usr/share/i18n/locales/am_ET:include "translit_combining";""
+usr/share/i18n/locales/lt_LT:include  "translit_combining";""
+usr/share/i18n/locales/it_IT:include "translit_combining";""
+usr/share/i18n/locales/nl_NL:include  "translit_combining";""
+usr/share/i18n/locales/cv_RU:include  "translit_combining";""
+usr/share/i18n/locales/pt_PT:include  "translit_combining";""
+usr/share/i18n/locales/sw_KE:include "translit_combining";""
+usr/share/i18n/locales/dz_BT:include "translit_combining";""
+usr/share/i18n/locales/xh_ZA:include "translit_combining";""
+usr/share/i18n/locales/ar_EG:include "translit_combining";""
+usr/share/i18n/locales/uz_UZ:include "translit_combining";""
+usr/share/i18n/locales/en_ZM:include "translit_combining";""
+usr/share/i18n/locales/fi_FI:include "translit_combining";""
+usr/share/i18n/locales/sd_IN:include  "translit_combining";""
+usr/share/i18n/locales/mk_MK:include  "translit_combining";""
+usr/share/i18n/locales/is_IS:include "translit_combining";""
+usr/share/i18n/locales/cs_CZ:include "translit_combining";""
+usr/share/i18n/locales/yi_US:include "translit_combining";""
+usr/share/i18n/locales/ta_IN:include  "translit_combining";""
+usr/share/i18n/locales/dv_MV:include "translit_combining";""
+usr/share/i18n/locales/id_ID:include "translit_combining";""
+usr/share/i18n/locales/ur_IN:include  "translit_combining";""
+usr/share/i18n/locales/ht_HT:include "translit_combining";""
+usr/share/i18n/locales/th_TH:include  "translit_combining";""
+usr/share/i18n/locales/bo_CN:include "translit_combining";""
+usr/share/i18n/locales/be_BY:include "translit_combining";""
+usr/share/i18n/locales/ff_SN:include "translit_combining";""
+usr/share/i18n/locales/mg_MG:include "translit_combining";""
+usr/share/i18n/locales/tk_TM:include "translit_combining";""
+usr/share/i18n/locales/hr_HR:include "translit_combining";""
+usr/share/i18n/locales/tt_RU:include  "translit_combining";""
+usr/share/i18n/locales/ru_RU:include  "translit_combining";""
+usr/share/i18n/locales/kk_KZ:include "translit_combining";""
+usr/share/i18n/locales/lv_LV:include  "translit_combining";""
+usr/share/i18n/locales/st_ZA:include  "translit_combining";""
+usr/share/i18n/locales/ne_NP:include  "translit_combining";""
+usr/share/i18n/locales/si_LK:include  "translit_combining";""
+usr/share/i18n/locales/lo_LA:include  "translit_combining";""
+usr/share/i18n/locales/lb_LU:include "translit_combining";""
+usr/share/i18n/locales/gu_IN:include "translit_combining";""
+usr/share/i18n/locales/es_CU:include "translit_combining";""
+usr/share/i18n/locales/ber_MA:include "translit_combining";""
+usr/share/i18n/locales/kn_IN:include  "translit_combining";""
+usr/share/i18n/locales/el_GR:include "translit_combining";""
+usr/share/i18n/locales/en_NG:include "translit_combining";""
+usr/share/i18n/locales/ss_ZA:include  "translit_combining";""
+usr/share/i18n/locales/tr_TR:include "translit_combining";""
+usr/share/i18n/locales/ja_JP:include "translit_combining";""
+usr/share/i18n/locales/ja_JP:include "translit_cjk_variants";""
+usr/share/i18n/locales/cy_GB:include "translit_combining";""
+usr/share/i18n/locales/ko_KR:include "translit_combining";""
+usr/share/i18n/locales/ko_KR:include "translit_hangul";""
+usr/share/i18n/locales/sq_AL:include  "translit_combining";""
+usr/share/i18n/locales/af_ZA:include "translit_combining";""
+usr/share/i18n/locales/zu_ZA:include  "translit_combining";""
+usr/share/i18n/locales/ts_ZA:include  "translit_combining";""
+usr/share/i18n/locales/ky_KG:include  "translit_combining";""
+usr/share/i18n/locales/mhr_RU:include  "translit_combining";""
+usr/share/i18n/locales/ml_IN:include     "translit_combining";""
+usr/share/i18n/locales/gv_GB:include "translit_combining";""
+usr/share/i18n/locales/or_IN:include  "translit_combining";""
+usr/share/i18n/locales/sd_IN@devanagari:include  "translit_combining";""
+usr/share/i18n/locales/so_SO:include  "translit_combining";""
+usr/share/i18n/locales/ga_IE:include "translit_combining";""
+usr/share/i18n/locales/nr_ZA:include  "translit_combining";""
+usr/share/i18n/locales/mn_MN:include "translit_combining";""
+usr/share/i18n/locales/hi_IN:include "translit_combining";""
+usr/share/i18n/locales/ca_ES:include "translit_combining";""
+usr/share/i18n/locales/wo_SN:include "translit_combining";""
+usr/share/i18n/locales/iw_IL:include "translit_combining";""
+usr/share/i18n/locales/zh_CN:include  "translit_combining";""
+usr/share/i18n/locales/uz_UZ@cyrillic:include "translit_combining";""
+usr/share/i18n/locales/om_KE:include  "translit_combining";""
+usr/share/i18n/locales/lg_UG:include  "translit_combining";""
+usr/share/i18n/locales/sr_RS:include "translit_combining";""
+usr/share/i18n/locales/ur_PK:include "translit_combining";""
+usr/share/i18n/locales/te_IN:include  "translit_combining";""
+usr/share/i18n/locales/bem_ZM:include "translit_combining";""
+usr/share/i18n/locales/wa_BE:include "translit_combining";""
+usr/share/i18n/locales/os_RU:include  "translit_combining";""
+usr/share/i18n/locales/et_EE:include "translit_combining";""
+usr/share/i18n/locales/he_IL:include "translit_combining";""
+usr/share/i18n/locales/tn_ZA:include  "translit_combining";""
+usr/share/i18n/locales/i18n:include "translit_neutral";""
+usr/share/i18n/locales/ms_MY:include  "translit_combining";""
+usr/share/i18n/locales/ro_RO:include "translit_combining";""
+usr/share/i18n/locales/da_DK:include "translit_combining";""
+usr/share/i18n/locales/gd_GB:include "translit_combining";""
+usr/share/i18n/locales/lij_IT:include "translit_combining";""
+usr/share/i18n/locales/bn_BD:include "translit_combining";""
+usr/share/i18n/locales/mt_MT:include  "translit_combining";""
+usr/share/i18n/locales/sd_PK:include  "translit_combining";""
+usr/share/i18n/locales/hy_AM:include "translit_combining";""
+usr/share/i18n/locales/km_KH:include  "translit_combining";""
+usr/share/i18n/locales/sv_SE:include  "translit_combining";""
+usr/share/i18n/locales/sa_IN:include "translit_combining";""
+usr/share/i18n/locales/vi_VN:include  "translit_combining";""
+usr/share/i18n/locales/se_NO:include  "translit_combining";""
+usr/share/i18n/locales/nan_TW@latin:include "translit_combining";""
+usr/share/i18n/locales/sk_SK:include  "translit_combining";""
+usr/share/i18n/locales/ti_ET:include  "translit_combining";""
+usr/share/i18n/locales/nb_NO:include  "translit_combining";""
+usr/share/i18n/locales/ks_IN:include  "translit_combining";""
+usr/share/common-licenses/LGPL-2:included without limitation in the term "modification".)
+usr/share/common-licenses/GFDL-1.2:include proprietary formats that can be read and edited only by
+usr/share/common-licenses/GFDL-1.2:includes a cover text for the same cover, previously added by you or
+usr/share/common-licenses/GPL-3:includes interface definition files associated with source files for
+usr/share/common-licenses/GPL-3:included in conveying the object code work.
+usr/share/common-licenses/LGPL-2.1:included without limitation in the term "modification".)
+usr/share/common-licenses/GFDL-1.3:include proprietary formats that can be read and edited only by
+usr/share/common-licenses/GFDL-1.3:includes a cover text for the same cover, previously added by you or
+usr/local/opt/rbenv/LICENSE:included in all copies or substantial portions of the Software.
+usr/local/foreman/vendor/gems/dotenv-0.11.1/LICENSE:included in all copies or substantial portions of the Software.
+usr/local/foreman/vendor/gems/dotenv-deployment-0.0.2/LICENSE.txt:included in all copies or substantial portions of the Software.
+usr/local/foreman/vendor/gems/thor-0.19.1/LICENSE.md:included in all copies or substantial portions of the Software.
+usr/local/heroku/vendor/gems/excon-0.45.2/changelog.txt:include scheme in socket key
+usr/local/heroku/vendor/gems/excon-0.45.2/Rakefile:include Rake::DSL
+usr/local/heroku/vendor/gems/rubyzip-1.1.7/test/data/file2.txt:include Zip
+usr/local/heroku/vendor/gems/rubyzip-1.1.7/samples/write_simple.rb:include Zip
+usr/local/heroku/vendor/gems/rdoc-4.2.0/README.rdoc:includes the +rdoc+ and +ri+ tools for generating and displaying documentation
+usr/local/heroku/vendor/gems/rdoc-4.2.0/lib/rdoc/servlet.rb:include the RDoc version, the URI above and exception class, message and
+usr/local/heroku/vendor/gems/rdoc-4.2.0/test/test_rdoc_markup_to_html_snippet.rb:includes the +rdoc+ and +ri+ tools for generating and displaying online
+usr/local/heroku/vendor/gems/rdoc-4.2.0/test/test_rdoc_i18n_text.rb:includes the +rdoc+ and +ri+ tools for generating and displaying documentation
+usr/local/heroku/vendor/gems/multi_json-1.11.0/LICENSE.md:included in all copies or substantial portions of the Software.
+usr/local/heroku/vendor/gems/rest-client-1.6.8/spec/resource_spec.rb:include WebMock::API
+usr/local/heroku/vendor/gems/rest-client-1.6.8/spec/exceptions_spec.rb:include WebMock::API
+usr/local/heroku/vendor/gems/rest-client-1.6.8/spec/request_spec.rb:include WebMock::API
+usr/local/heroku/vendor/gems/rest-client-1.6.8/spec/request2_spec.rb:include WebMock::API
+usr/local/heroku/vendor/gems/rest-client-1.6.8/spec/integration_spec.rb:include WebMock::API
+usr/local/heroku/vendor/gems/rest-client-1.6.8/spec/response_spec.rb:include WebMock::API
+usr/include/X11/Xproto.h:include bit fields.  All of these are #undef'd at the end of this file,
+usr/include/X11/Xalloca.h:included in all copies or substantial portions of the Software.
+usr/lib/python3/dist-packages/gi/overrides/keysyms.py:includedin = 0x8da
+usr/lib/python3/dist-packages/gi/overrides/keysyms.py:includes = 0x8db
+usr/lib/x86_64-linux-gnu/pkgconfig/liblzma.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/ddjvuapi.pc:includedir = ${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/xcb-render.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/lqr-1.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/gnutls-extra.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-xcb.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libffi.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libpcre.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/ncurses.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libtasn1.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-tee.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/com_err.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-script.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-xlib-xrender.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/IlmBase.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/sm.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/fontconfig.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/form.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/panelw.pc:includedir=${prefix}/include/ncursesw
+usr/lib/x86_64-linux-gnu/pkgconfig/libcrypto.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/tic.pc:includedir=${prefix}/include/ncursesw
+usr/lib/x86_64-linux-gnu/pkgconfig/MagickWand.pc:includedir=${prefix}/include/ImageMagick
+usr/lib/x86_64-linux-gnu/pkgconfig/ncurses++w.pc:includedir=${prefix}/include/ncursesw
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-xcb-shm.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/yaml-0.1.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/gobject-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/xdmcp.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-ft.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/gthread-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/tinfo.pc:includedir=${prefix}/include/ncursesw
+usr/lib/x86_64-linux-gnu/pkgconfig/mit-krb5.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/xcb-shm.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/Wand.pc:includedir=${prefix}/include/ImageMagick
+usr/lib/x86_64-linux-gnu/pkgconfig/ice.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/p11-kit-1.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libtiff-4.pc:includedir=${prefix}/include/x86_64-linux-gnu
+usr/lib/x86_64-linux-gnu/pkgconfig/mit-krb5-gssapi.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/ImageMagick.pc:includedir=${prefix}/include/ImageMagick
+usr/lib/x86_64-linux-gnu/pkgconfig/libcurl.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/x11.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/menu.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libpcrecpp.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-png.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/xext.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/openssl.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-pdf.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/gmodule-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/menuw.pc:includedir=${prefix}/include/ncursesw
+usr/lib/x86_64-linux-gnu/pkgconfig/freetype2.pc:includedir="/usr/include/freetype2"
+usr/lib/x86_64-linux-gnu/pkgconfig/xau.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-svg.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libexslt.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/expat.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libexif.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/zlib.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/sqlite3.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libidn.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/gmodule-export-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/gmodule-no-export-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/gio-unix-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/xrender.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/xcb.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libxslt.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/mit-krb5/kdb.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/mit-krb5/krb5.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/mit-krb5/kadm-client.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/mit-krb5/gssrpc.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/mit-krb5/kadm-server.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/mit-krb5/krb5-gssapi.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/gnutls.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libpng12.pc:includedir=${prefix}/include/libpng12
+usr/lib/x86_64-linux-gnu/pkgconfig/lcms2.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libssl.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/pixman-1.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libpcreposix.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/librsvg-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/ncursesw.pc:includedir=${prefix}/include/ncursesw
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-ps.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/OpenEXR.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-xlib.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/MagickCore.pc:includedir=${prefix}/include/ImageMagick
+usr/lib/x86_64-linux-gnu/pkgconfig/gdk-pixbuf-xlib-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/glib-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/ncurses++.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/gdk-pixbuf-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/formw.pc:includedir=${prefix}/include/ncursesw
+usr/lib/x86_64-linux-gnu/pkgconfig/xt.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-fc.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/panel.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/gio-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/libxml-2.0.pc:includedir=${prefix}/include
+usr/lib/x86_64-linux-gnu/pkgconfig/cairo-gobject.pc:includedir=${prefix}/include
+usr/lib/python3.4/email/_header_value_parser.py:included in the general class of whitespace tokens.  There is one exception to
+usr/lib/python2.7/dist-packages/bzrlib/testament.py:includes or ignores file-ids.
+usr/lib/git-core/git-am:include=        pass it through git-apply
+usr/lib/pkgconfig/libcgraph.pc:includedir=${prefix}/include/graphviz
+usr/lib/pkgconfig/libgvpr.pc:includedir=${prefix}/include/graphviz
+usr/lib/pkgconfig/libpathplan.pc:includedir=${prefix}/include/graphviz
+usr/lib/pkgconfig/libgvc.pc:includedir=${prefix}/include/graphviz
+usr/lib/pkgconfig/libxdot.pc:includedir=${prefix}/include/graphviz
+usr/lib/pkgconfig/libcdt.pc:includedir=${prefix}/include/graphviz
+usr/lib/ruby/1.9.1/rake/dsl_definition.rb:include Rake::DeprecatedObjectDSL
+usr/lib/perl/5.18.2/B/Xref.pm:included dereferencing information where possible.
+usr/lib/perl/5.18.2/Config.pod:include F<os2/os2.obj>.
+usr/lib/perl/5.18.2/Config.pod:included).
+usr/lib/perl/5.18.2/Config.pod:include in @C<INC>.  See also otherlibdirs.
+usr/lib/perl/5.18.2/Config.pod:included.
+usr/lib/perl/5.18.2/Config.pod:included). Anyway, the type Time_t should be used.
+usr/sbin/pam_getenv:included because future versions of Debian may have a separate
+etc/nanorc:include "/usr/share/nano/nanorc.nanorc"
+etc/nanorc:include "/usr/share/nano/c.nanorc"
+etc/nanorc:include "/usr/share/nano/css.nanorc"
+etc/nanorc:include "/usr/share/nano/debian.nanorc"
+etc/nanorc:include "/usr/share/nano/gentoo.nanorc"
+etc/nanorc:include "/usr/share/nano/html.nanorc"
+etc/nanorc:include "/usr/share/nano/php.nanorc"
+etc/nanorc:include "/usr/share/nano/tcl.nanorc"
+etc/nanorc:include "/usr/share/nano/tex.nanorc"
+etc/nanorc:include "/usr/share/nano/mutt.nanorc"
+etc/nanorc:include "/usr/share/nano/patch.nanorc"
+etc/nanorc:include "/usr/share/nano/man.nanorc"
+etc/nanorc:include "/usr/share/nano/groff.nanorc"
+etc/nanorc:include "/usr/share/nano/perl.nanorc"
+etc/nanorc:include "/usr/share/nano/python.nanorc"
+etc/nanorc:include "/usr/share/nano/ruby.nanorc"
+etc/nanorc:include "/usr/share/nano/java.nanorc"
+etc/nanorc:include "/usr/share/nano/awk.nanorc"
+etc/nanorc:include "/usr/share/nano/asm.nanorc"
+etc/nanorc:include "/usr/share/nano/sh.nanorc"
+etc/nanorc:include "/usr/share/nano/pov.nanorc"
+etc/nanorc:include "/usr/share/nano/xml.nanorc"
+etc/logrotate.conf:include /etc/logrotate.d
+etc/ld.so.conf:include /etc/ld.so.conf.d/*.conf
